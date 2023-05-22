@@ -1,0 +1,4 @@
+C++ Primer Plus,Stephen Prata,Addison-Wesley Professional,2011,1440
+CLR via C#,Rihter D.,Piter,2018,896
+C Primer Plus,Stephen Prata,Addison-Wesley Professional,2013,1072
+Библия C#,Михаил Фленов,BHV,2020,512
